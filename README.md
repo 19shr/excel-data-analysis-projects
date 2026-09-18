@@ -48,3 +48,34 @@ excel-data-analysis-projects/
 └── data/
     ├── sales_data.csv
     └── README.md
+## 📈 Key Metrics
+
+| Metric | Value |
+|---|---:|
+| Total Sales | ₹2,297,200.86 |
+| Total Profit | ₹286,397.02 |
+| Total Orders | 9,994 |
+| Total Quantity | 37,873 |
+| Average Profit Margin | 12.03% |
+| Average Discount | 15.63% |
+
+## 📊 Dashboard
+
+The Excel dashboard provides an interactive view of:
+
+- Sales performance
+- Profitability
+- Product and category performance
+- Regional sales
+- Customer performance
+- Sales trends
+- Key business KPIs
+
+The dashboard was built using Pivot Tables, Pivot Charts, Slicers,
+formulas, and conditional formatting.
+
+## 👩‍💻 Author
+
+**Shreya Raj**
+
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
