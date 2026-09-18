@@ -48,7 +48,8 @@ excel-data-analysis-projects/
 └── data/
     ├── sales_data.csv
     └── README.md
-## 📈 Key Metrics
+
+📈 Key Metrics
 
 | Metric | Value |
 |---|---:|
@@ -59,7 +60,8 @@ excel-data-analysis-projects/
 | Average Profit Margin | 12.03% |
 | Average Discount | 15.63% |
 
-## 📊 Dashboard
+
+ 📊 Dashboard
 
 The Excel dashboard provides an interactive view of:
 
@@ -74,7 +76,7 @@ The Excel dashboard provides an interactive view of:
 The dashboard was built using Pivot Tables, Pivot Charts, Slicers,
 formulas, and conditional formatting.
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Shreya Raj**
 
